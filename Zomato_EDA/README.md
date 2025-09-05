@@ -38,8 +38,14 @@ The objective is to uncover insights about restaurants, customer preferences, ra
 - matplotlib, seaborn  
 
 ---
+## Dataset
+-https://github.com/Austin8547/EDA/blob/main/Zomato_EDA/Zomato-data-.csv
+
+---
+
 
 ## 📂 Files in this Folder
+-**'Zomato-data-.csv'**  →  Dataset
 - **`Zomato_EDA.ipynb`** → Jupyter Notebook with the full step-by-step analysis.  
 - **`report.md`** *(optional)* → Summary of major findings and visualizations.  
 
